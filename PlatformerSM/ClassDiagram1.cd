@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EnemySound">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAII=</HashCode>
+      <FileName>Assets\Scripts\Audio\EnemySound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainAudio">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAIAAAAAAAgAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Audio\MainAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSound">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAACAAAAIAAAAAACAAAAAAAAABAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\Audio\PlayerSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RockAudio">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAAIEAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Audio\RockAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAbstract">
+    <Position X="0.5" Y="6.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAQAgEwGEqpMCAAGAAAAAAEBAAAAAQQQAiDQQAIIAAA=</HashCode>
+      <FileName>Assets\Scripts\Characters\CharacterAbstract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Characters\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost">
+    <Position X="6" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAiAAAAAAAAQAAAAAAEAgAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Characters\Ghost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="3.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUBAAAAAAAAAAAAAAEAAAAAAAAAAAAIwAAwQAABAFA=</HashCode>
+      <FileName>Assets\Scripts\Characters\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slime">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAAAAAAAEBAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Characters\Slime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonScene">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAIAAAAAAABAAAAAAAAAAQAAQQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GUI\ButtonScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUIController">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GUI\GUIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Life">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAQACAAAAAAAIAAAACAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GUI\Life.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuGuiManager">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAIAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GUI\MenuGuiManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnPress">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QASAAAAAAAAIAAAAAAAQAAAAAAQgAAAAAAAEAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GUI\OnPress.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="TimeCounter">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAgAAAAAAIAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GUI\TimeCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="parallaxBackground">
+    <Position X="9" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAFAQiEAAAAAAIAAAAAAAAAAAQCAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Scripts\parallaxBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCamera">
+    <Position X="10.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAIAAAAAAAAACAAAAABAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.SceneConfig.SceneConfig">
+    <Position X="10.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SceneConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spikes">
+    <Position X="12.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Spikes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeMenager">
+    <Position X="12.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAUAAEABAgAAAAAAAAAAAAAAAEAAAAAAAAAAFAAAABA=</HashCode>
+      <FileName>Assets\Scripts\TimeMenager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClosedDoor">
+    <Position X="16" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAgAAAAAABAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\ClosedDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoorKey">
+    <Position X="14.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAIAAAAAAAAAAEAAAAAAAABAAAEAAAA=</HashCode>
+      <FileName>Assets\DoorKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndLevel">
+    <Position X="10.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\EndLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FadingPlatform">
+    <Position X="14.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAQACAAAAAAAAAAAAAAAAAAAAACAAAAEAAAgBA=</HashCode>
+      <FileName>Assets\FadingPlatform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovingPlatform">
+    <Position X="16" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAAAiAAAAAgAAAAAAAAAAAAAQCAAABAAAAAAAg=</HashCode>
+      <FileName>Assets\MovingPlatform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyNetworkMenager">
+    <Position X="8.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAIAAAAAABABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MyNetworkMenager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="10.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAAAAAAAgAAAAAAAAAAAABAAAAAAEAAQA=</HashCode>
+      <FileName>Assets\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnPoint">
+    <Position X="12.25" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\SpawnPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SyncPosition">
+    <Position X="12.25" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAiAAAABAAAQAAAAAgAAAACAIAEACAAAAAAg=</HashCode>
+      <FileName>Assets\SyncPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

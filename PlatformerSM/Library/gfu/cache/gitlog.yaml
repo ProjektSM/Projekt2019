@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-04-06T13:23:46.914+02:00
+  initializedAtString: 2019-04-06T13:23:46.914+02:00
+  log:
+  - commitID: e5acdb49691aafe19ae2d8fa36a17310e9dcdd17
+    mergeA: 
+    mergeB: 
+    authorName: Matrer
+    authorEmail: koziol.marcin96@gmail.com
+    commitEmail: koziol.marcin96@gmail.com
+    commitName: Matrer
+    summary: test
+    description: 
+    timeString: 2019-03-22T17:59:41.000+01:00
+    commitTimeString: 2019-03-22T17:59:41.000+01:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\kozio\Documents\PlatformerSM\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 0e111edea1b14fc3824bee812ed794b48b666a55
+    mergeA: 
+    mergeB: 
+    authorName: Matrer
+    authorEmail: koziol.marcin96@gmail.com
+    commitEmail: koziol.marcin96@gmail.com
+    commitName: Matrer
+    summary: test
+    description: test
+    timeString: 2019-03-22T17:42:58.000+01:00
+    commitTimeString: 2019-03-22T17:42:58.000+01:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\kozio\Documents\PlatformerSM\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 4
+      staged: 0
